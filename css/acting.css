@@ -1,0 +1,45 @@
+.nav {
+	background-color: white;
+}
+
+.nav li {
+	display:inline;
+}
+
+.nav a {
+	padding-right: 15px;
+	font-size: 14px;
+	color: #5a5a5a;
+	text-transform: uppercase;
+	font-family: Helvetica;
+}
+
+.jumbotron {
+	background-image: url("handstandhalf.png");
+	height: 500px;
+	background-repeat: no-repeat;
+	position: relative;
+	background-size: cover;
+}
+
+.jumbotron .container h2 {
+	color: white;
+	font-family: Helvetica;
+	padding-left: 20px;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+
+.jumbotron .container {
+	position: absolute;
+	top: 85%;
+}
+
+.footer .container p {
+	display: inline;
+}
+
+body {
+	padding-top: 8px;
+	padding-bottom: auto;
+}

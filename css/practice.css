@@ -1,0 +1,94 @@
+.nav {
+	background-color: white;
+}
+
+.nav li {
+	display:inline;
+}
+
+.nav a {
+	padding-right: 15px;
+	font-size: 14px;
+	color: #5a5a5a;
+	text-transform: uppercase;
+	font-family: Helvetica;
+	text-decoration: none;
+}
+
+#practice {
+	background-image: url("temp.jpg");
+	width:auto;
+	height: 450px;
+	background-repeat: no-repeat;
+	position: relative;
+	background-size: cover;
+
+}
+
+#actingPic {
+	height: 450px;
+	width: auto;
+	}
+
+#designPic {
+	height: 450px;
+	position: relative;
+	margin-right: -200;
+}
+
+#aboutPic {
+	height: 450px;
+	background-repeat: no-repeat;
+	position: relative;
+	background-size: cover;
+}
+
+.jumbotron .container h2 {
+	color: white;
+	font-family: Helvetica;
+	padding-left: 20px;
+	text-transform: uppercase;
+	font-weight: lighter;
+	display: none;
+}
+
+.jumbotron .container {
+	position: absolute;
+	top: 85%;
+}
+
+.aboutRow {
+	background-color: rgba(216, 223, 223, 0.78);
+	height: 450px;
+}
+
+.footer .container {
+	text-align: right;
+	clear:both;
+}
+
+body {
+	padding-top: 8px;
+	padding-bottom: auto;
+}
+
+button {
+	clear: right; 
+	display: none;
+}
+
+
+.box{
+  overflow: auto;
+  height: 450px;
+}
+
+.box p {
+	display: none;
+}
+
+img {
+    display: none;
+    margin-right: -100px;
+    }
+    
