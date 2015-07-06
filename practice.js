@@ -9,7 +9,7 @@ $(document).ready(function(){
 		$button.fadeIn('slow');
 	}, 6500);
     
-    $('.jumbotron .container h2').fadeIn(3000)
+    $('.jumbotron .container-fluid h2').fadeIn(3000)
 	
 	$('button').click(function(){
 		$(this).addClass('btn-primary disabled');    
