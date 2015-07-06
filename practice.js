@@ -3,15 +3,15 @@ $(document).ready(function(){
     
     $('img').fadeIn(1500);
     
-    $button = $('button');
+    $button = $('.wiper');
 	$button.hide();
 	var timeOut = setTimeout(function() {
 		$button.fadeIn('slow');
 	}, 6500);
     
     $('.jumbotron .container-fluid h2').fadeIn(3000)
-	
-	$('button').click(function(){
+		
+	$button.click(function(){
 		$(this).addClass('btn-primary disabled');    
 	    $('p').hover(function(){
 	            $(this).fadeOut('slow');
