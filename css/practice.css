@@ -59,6 +59,7 @@
 .aboutRow {
 	background-color: rgba(216, 223, 223, 0.78);
 	height: 450px;
+	width: auto;
 }
 
 .footer .container-fluid {
