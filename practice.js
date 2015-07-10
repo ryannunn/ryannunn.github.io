@@ -34,5 +34,8 @@ $(document).ready(function(){
 		$('h3').hover(function(){
 				$(this).fadeOut('slow');	
 		});
+		$('a').hover(function(){
+				$(this).fadeOut('slow');	
+		});
    });
 });
