@@ -28,5 +28,11 @@ $(document).ready(function(){
 		$('img').hover(function(){
 				$(this).fadeOut('slow');
 		});
+		$('iframe').hover(function(){
+				$(this).fadeOut('slow');
+		});
+		$('h3').hover(function(){
+				$(this).fadeOut('slow');	
+		});
    });
 });
