@@ -1,11 +1,27 @@
 .navbar {
 	margin-bottom: -1px;
-	margin-top: -5px;
+	margin-top: -3px;
+}
+
+.navbar-header {
+	margin-top: 0px;
+	font-family: ;
+}
+
+.navbar-brand {
+	font-size: 14px;
+	color: #5a5a5a;
+	text-transform: uppercase;
+	font-family: Helvetica;
+	text-decoration: none;
+	image-height: 20px;
 }
 
 .nav li {
 	display:inline;
 }
+
+
 
 .nav a {
 	padding-right: 15px;
