@@ -1,5 +1,6 @@
-.nav {
-	background-color: white;
+.navbar {
+	margin-bottom: -1px;
+	margin-top: -5px;
 }
 
 .nav li {
@@ -66,7 +67,7 @@
 }
 
 body {
-	padding-top: 8px;
+	padding-top: none;
 	padding-bottom: auto;
 }
 
