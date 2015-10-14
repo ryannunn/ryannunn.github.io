@@ -1,0 +1,138 @@
+.picish {
+	width: 100%;
+	padding-right: none;
+	padding-left: none;
+	margin-left: none;
+	margin-right: none;
+}
+
+.parent{
+	width: 100%;
+	max-height: 450px;
+	overflow: hidden;
+	position: relative;
+	padding-top: 45px;
+}
+
+.parent h1 {
+	position: absolute;
+	top: 33%;
+	left: 5%;
+	width: 100%;
+	color: white;
+	opacity: .75;
+}
+
+.parent1 {
+	max-height: 350px;
+	overflow: hidden;
+}
+
+#ukepic {
+	width= 100%;
+}
+
+
+
+.body {
+	background-color: #c5c5c5;
+	margin: none;
+}
+
+#top {
+	padding-top: none;
+	background-image: "cloud.jpg";
+}
+
+#about {
+	background-color: #054c63;
+	color: white;
+	padding-bottom: 50px;
+}
+
+#work {
+	background-color: #054c63;
+	color: white;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+#resume {
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+#other {
+	padding-bottom: 50px;
+	text-align: center;
+
+}
+
+.navbar-header {
+	padding: none;
+	margin: none;
+}
+
+.navbar-fixed-top {
+	padding: none;
+	margin: none;
+}
+
+.halfy {
+	margin: none;
+	padding: none;
+}
+
+.navbar-brand {
+	font-family: helvetica;
+	font-size: 14px;
+	color: #585858;
+	
+}
+
+.navbar {
+	background-color: white;
+	text-transform: uppercase;
+	font-family: helvetica;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.navbar .container-fluid {
+	padding-bottom: none;
+}
+
+.nav {
+	color: #585858;
+	background-color: white;
+}
+
+li {
+	color: #5bc0de;
+}
+
+.section {
+	height: 500px;
+}
+
+h3 {
+	text-align: center;
+}
+
+.footer {
+	text-align: center;
+	background-color: #054c63;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.row {
+	width: 100%;
+	margin-right: none;
+	padding-right: none;
+}
+
+.container-fluid {
+	padding: none;
+}
